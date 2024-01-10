@@ -15,10 +15,3 @@ This project is a simple React application that demonstrates the use of React-Re
   - Retrieves the stored value from the Redux store.
   - Displays the retrieved value inside the component.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-redux-demo.git
-   ```
