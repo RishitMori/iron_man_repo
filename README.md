@@ -1,4 +1,3 @@
-# React + Vite
 
 # React App with Redux
 
